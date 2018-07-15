@@ -1,0 +1,11 @@
+.issues-search-bar {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+@media screen and (min-width: 768px){
+  .issues-search-bar {
+    flex-direction: row;
+  }
+}

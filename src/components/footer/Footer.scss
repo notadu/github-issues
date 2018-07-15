@@ -1,0 +1,10 @@
+@import "../../styles/variables";
+
+.app-footer {
+  display: flex;
+  align-items: center;
+  flex: 0 0 auto;
+  height: 80px;
+  border-top: 1px solid $grey;
+  box-sizing: border-box;
+}

@@ -1,0 +1,8 @@
+# IntellijIdea files
+.idea
+
+# npm packages
+node_modules
+
+# prod build
+dist

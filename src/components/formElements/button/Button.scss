@@ -1,0 +1,14 @@
+@import '../../../styles/variables';
+
+button {
+  font-size: 1.5rem;
+  padding: 10px;
+  border: none;
+  background-color: $blue;
+  color: $white;
+  cursor: pointer;
+  
+  &:disabled {
+    cursor: not-allowed;
+  }
+}
